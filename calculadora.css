@@ -1,0 +1,80 @@
+{
+	text-align: center;
+}
+header, section, footer, aside, nav, article, figure, figcaption, hgroup{
+	display: block;
+}
+#aplicacion{
+	border: 1px solid #999999;
+	width: 250px;
+	height: 200px;
+	border-radius: 10px;
+	background: #848484;
+	margin-left: 150px, auto;
+	float: left;
+}
+#pantalla {
+	float: left;
+	height: 25px;
+	width: 190px;
+	background: #FFFFFF;
+	border: 2px solid #999999;
+	border-radius: 7px;
+	margin-left: 14px;
+	margin-top: 10px;
+	text-align: right;
+}
+#borrarlast {
+	width: 30px;
+	height: 20px;
+	border: 1px solid #999999;
+	float: left;
+	margin-left: 3px;
+	margin-top: 12px;
+	border-radius: 7px;
+	background: #58ACFA;
+}
+.botones{
+	width: 240px;
+	height: 220px;
+	padding: 18px;
+}
+.botones div{
+	width: 50px;
+	height: 30px;
+	border-radius: 3px;
+	border: 1px solid #999999 !important;
+	float: left;
+	margin: 1px;
+}
+#numeros div{
+	background: #58ACFA;
+
+}
+#numeros {
+	height: 70px;
+	width: 162px;
+	float: left;
+
+}
+#operaciones div{
+	background: #FE642E;
+}
+
+#operaciones{
+	width: 75px;
+	height: 140px;
+	float: left;
+}
+.complemento{
+	background: #01DF01 !important; 
+}
+.numeross:hover{
+	background: #FFFFFF !important;
+}
+#operaciones div:hover{
+	background: #FFFFFF !important;
+}
+#borrarlast:hover{
+	background: #FF8000;
+}
