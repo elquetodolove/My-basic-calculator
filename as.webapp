@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "name": "Calculator",
+    "description": "Calculadora basica_David Sanchez Alvarez",
+    "launch_path": "/calculadora.html",
+    "icons": {        
+        "128":"/calculadora.png"
+
+    },
+    "developer": {
+        "name": "David Sanchez",
+        "url": " "
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "en": {
+            "description": "",
+            "developer": {
+                "name": "David Sanchez",
+                "url": "http://www.genbetadev.com"
+            }
+        }
+    },
+    "default_locale": "es",
+    "permissions": {     
+    },
+    "fullscreen": "true"
+}
